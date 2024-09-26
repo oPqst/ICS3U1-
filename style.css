@@ -11,3 +11,18 @@ p {
     color: pink;
     text-align: center;
 }
+
+form {
+    padding: 10px;
+    background-color: #f9f9f9;
+}
+
+label {
+    font-weight: bold;
+}
+
+input[type="text"] {
+    margin: 5px 0;
+    padding: 5px;
+    border: 1px solid #ccc;
+}
