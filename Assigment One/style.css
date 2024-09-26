@@ -26,3 +26,14 @@ input[type="text"] {
     padding: 5px;
     border: 1px solid blue;
 }
+
+
+h1 {
+    color: blue;
+    text-align: left;
+}
+
+p {
+    color: blue;
+    text-align: center;
+}
